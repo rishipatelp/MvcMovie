@@ -47,3 +47,5 @@ For information:
 1033 - Trying to add Nuget packages in Studio.
 1045 - Install the Framework Microsoft.EntityFrameworkCore.SqlServer
 1115 - Left from Initial migration.
+
+1142 - last Updated from Add a model> Examine the database connection string
